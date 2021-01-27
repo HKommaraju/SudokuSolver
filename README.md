@@ -1,6 +1,6 @@
 # SudokuSolver
 A 4x4 sudoku board solver. 
-The project can take in any state of a valid 4x4 sudoku board and produce a correcrt and completely solved board as an answer.
+The project can take in any state of a valid 4x4 sudoku board and produce a correct and completely solved board as an answer.
 
 The project has two files namely HillClimber and GameBoard. 
 GameBoard is a class containing function defenitions and methods for GameBoard class objects.
