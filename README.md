@@ -12,8 +12,8 @@ The input for the board has to be in a separate file in the following format:
 
 4
 1*32
-**14
-412*
+3*4*
+*12*
 23**
 
 The first line contains the n from from the nxn board about to be inputed. The following lines are the state of the board with an '*' denoting an empty spot.
