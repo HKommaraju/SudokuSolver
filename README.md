@@ -16,5 +16,5 @@ The input for the board has to be in a separate file in the following format:
 4 * 2 * \
 2 3 * * 
 
-The first line contains the n from from the nxn board about to be inputed. The following lines are the state of the board with an '*' denoting an empty spot.
-The output is displayed in the same formatting with a complete board on the console. 
+The first line contains the n from from the nxn board about to be inputed. The following lines are the state of the board with an '*' denoting an empty spot.There should be no spaces in between the numbers. The '*' denoting the empty space can occur anywhere on the board and how many ever times as wanted. 
+The output is displayed in the same formatting with a complete board in the console. 
