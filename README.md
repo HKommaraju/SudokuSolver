@@ -10,11 +10,11 @@ To run the project, import both files into the same folder(This is essential sin
 
 The input for the board has to be in a separate file in the following format:
 
-4
-1*32
-3*4*
-*12*
-23**
+4\
+1 * 3 2 \
+3 * 4 *\
+* 1 2 * \
+2 3 * *\
 
 The first line contains the n from from the nxn board about to be inputed. The following lines are the state of the board with an '*' denoting an empty spot.
 The output is displayed in the same formatting with a complete board on the console. 
